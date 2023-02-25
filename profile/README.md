@@ -1,0 +1,38 @@
+# Euphelia 
+
+Euphelia is an indie game development team that is dedicated to creating high-quality, meaningful games with unique stories, beautiful art, and great music. Our team is made up of talented and experienced artists, designers, writers, programmers, and musicians who are passionate about creating games that explore deep psychological themes and magical, mystical, and medieval worlds. We draw inspiration from Japanese culture and the rich history of storytelling in games.
+
+
+## 👨‍🎓 Our Philosophy
+
+At Euphelia, we believe that games have the power to move people, inspire change, and create meaningful connections. We strive to create games that challenge players to think deeply, feel deeply, and connect with the world around them. We are committed to creating games that are accessible to everyone, regardless of their background or experience.
+
+
+## 🖼 Our Projects
+
+<details><summary>Read about YUME</summary>
+
+<p>
+Yume is a captivating game that takes you on a journey through the lives of two very different characters. The game is designed to be played from either character's perspective, each with their own unique story, struggles, and experiences. As you progress through the game, you will discover that the characters' lives are interconnected, leading to a heartwarming and inspiring conclusion.
+
+The name of the game, Yume, meaning dream in Japanese, is fitting, as the game explores the power of dreams and the ways in which they can inspire and motivate us to achieve our goals. The game's deep psychological themes and symbolism add an extra layer of depth and meaning to the gameplay experience.
+
+Yume's gameplay is entirely dependent on the character you choose to play as, with different locations, characters, events, and morale. The game is designed to be replayed from different character perspectives, allowing players to discover new aspects of the story and uncover hidden connections between the characters.
+
+The game's beautiful art style and engaging storyline make it a joy to play, while its thought-provoking themes and emotional depth provide a truly memorable and immersive gaming experience. Whether you're looking for a captivating story, unique gameplay mechanics, or simply an opportunity to explore the world of Yume, this game is sure to captivate your imagination and keep you coming back for more.
+</p>
+
+</details>
+
+
+##  🐱‍🏍 Join Us
+
+At the moment, our team is fully staffed, but as we continue to develop our projects and share our creations with the world, we may be seeking new talent to join us. We are always on the lookout for passionate and talented individuals who share our vision and are dedicated to creating meaningful and immersive gaming experiences. Please check back with us in the future for potential opportunities to join our team.
+
+## 🐱‍💻 Social medias
+
+At the moment, we are fully focused on creating our first results and bringing them to the world, which is why we are not currently active on social media. However, we plan to keep our followers and fans updated on our progress and future projects once we have achieved our initial goals. Stay tuned for future updates and announcements!
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
