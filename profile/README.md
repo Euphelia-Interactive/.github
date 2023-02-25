@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/112899514/221327818-c8af2af4-166e-4f4c-b68b-22c65464b71d.png" alt="Euphelia" align="left" width="450px"/>
+
 # Euphelia 
 
 Euphelia is an indie game development team that is dedicated to creating high-quality, meaningful games with unique stories, beautiful art, and great music. Our team is made up of talented and experienced artists, designers, writers, programmers, and musicians who are passionate about creating games that explore deep psychological themes and magical, mystical, and medieval worlds. We draw inspiration from Japanese culture and the rich history of storytelling in games.
@@ -16,7 +18,7 @@ At Euphelia, we believe that games have the power to move people, inspire change
   <dt>YUME</dt>
 
   <dd>
-  <img src="https://user-images.githubusercontent.com/112899514/221326891-f39bdcfa-8c48-4fba-becd-62e4ea95808e.png" alt="Yume" align="right" width="250px"/>
+  <img src="https://user-images.githubusercontent.com/112899514/221327829-346302f6-724f-4715-9cd8-342881a1b128.png" alt="Yume" align="right" width="250px"/>
   Yume is a captivating game that takes you on a journey through the lives of two very different characters. The game is designed to be played from either character's perspective, each with their own unique story, struggles, and experiences. As you progress through the game, you will discover that the characters' lives are interconnected, leading to a heartwarming and inspiring conclusion.
 
 The name of the game, Yume, meaning dream in Japanese, is fitting, as the game explores the power of dreams and the ways in which they can inspire and motivate us to achieve our goals. The game's deep psychological themes and symbolism add an extra layer of depth and meaning to the gameplay experience.
