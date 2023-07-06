@@ -29,7 +29,7 @@ The game's beautiful art style and engaging storyline make it a joy to play, whi
 </dl>
 
 <dl>
-  <dt>Relics of Forgotten Wisdom</dt>
+  <dt>Relics of Forgotten Wisdom - (Our Future Project)</dt>
   <dd>Immerse yourself in 'Relics of Forgotten Wisdom' - an enthralling new journey set in a universe lost in the mists of time. Unearth the secrets of ancient civilizations as you traverse through lush, yet deadly terrains, daunting labyrinthine dungeons, and the haunting remnants of extinct societies.
 
 In this epic adventure, you'll unravel complex puzzles and decipher cryptic messages, your wisdom and intuition guiding you to uncover truths older than humanity itself. Harnessing the forgotten wisdom, you will face formidable foes and demystify the phenomena defying the laws of nature.
